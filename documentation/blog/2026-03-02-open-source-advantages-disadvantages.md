@@ -3,7 +3,7 @@ title: "What Is Open Source? Advantages, Disadvantages, and the Best Developer T
 description: What is open source software? Explore its advantages, disadvantages, Open Source Intelligence (OSINT), and the best open-source developer tools today.
 slug: open-source-advantages-disadvantages
 authors: ozgur
-category: "Tutorials"
+category: "Engineering"
 tags: [open-source, tech-industry]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog/2026-03-03-open-source-advantage/banner.png
 hide_table_of_contents: false
