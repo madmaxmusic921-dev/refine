@@ -79,7 +79,7 @@ _Since the steps to create Entities Controllers, and services are very long, I d
 
 It created these end-points automatically with nestjsx/crud.
 
-<img src="https://refine.ams3.cdn.digitaloceanspaces.com/blog/2021-10-4-admin-panel-with-nestjs/api.png" alt="API response example" />
+<img src="https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2021/2021-10-4-admin-panel-with-nestjs/api.png" alt="API response example" />
 <br />
 
 ## Refine Admin Panel
@@ -113,7 +113,7 @@ npm run dev
 
 Refine's sample application will welcome you.
 
-<img src="https://refine.ams3.cdn.digitaloceanspaces.com/blog/2021-10-4-admin-panel-with-nestjs/refine_sample.png" alt="Refine sample application welcome screen" />
+<img src="https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2021/2021-10-4-admin-panel-with-nestjs/refine_sample.png" alt="Refine sample application welcome screen" />
 <br />
 
 Change api url in [admin/src/App.tsx](https://github.com/refinedev/refine-hackathon/tree/main/job-posting-app/blob/master/admin/src/App.tsx)
@@ -264,5 +264,5 @@ function App() {
         />
 ```
 
-<img src="https://refine.ams3.cdn.digitaloceanspaces.com/blog/2021-10-4-admin-panel-with-nestjs/refine_job.png" alt="Refine jobs list page" />
+<img src="https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2021/2021-10-4-admin-panel-with-nestjs/refine_job.png" alt="Refine jobs list page" />
 <br />

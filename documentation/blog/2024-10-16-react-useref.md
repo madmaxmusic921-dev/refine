@@ -5,7 +5,7 @@ slug: react-useref-hook-and-ref
 authors: joel_adewole
 category: "Tutorials"
 tags: [react]
-image: https://refine.ams3.cdn.digitaloceanspaces.com/blog/2022-10-26-react-useref/social2.png
+image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-10-26-react-useref/social2.png
 hide_table_of_contents: false
 ---
 
@@ -241,7 +241,7 @@ In the code above, we we invoked the `useClickAway` custom hook in the `Storefro
 
 Now let’s see the output:
 
-<img src="https://refine.ams3.cdn.digitaloceanspaces.com/blog/2022-10-26-react-useref/useref.avif"  alt="Storefront card with click-away example" />
+<img src="https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-10-26-react-useref/useref.avif"  alt="Storefront card with click-away example" />
 
 <br />
 
