@@ -7,6 +7,7 @@ category: "Tutorials"
 tags: [react, backend, javascript]
 hide_table_of_contents: false
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog/2023-08-16-react-web-socket/social-2.png
+last_update: 2024-08-15
 ---
 
 **This article was last updated on August 15, 2024, to add sections for WebSocket Protocols and Subprotocols, Security Considerations with WebSockets, and Error Handling and Reconnection Strategies.**
