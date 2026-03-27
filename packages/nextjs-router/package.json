@@ -97,7 +97,7 @@
     "@types/qs": "^6.9.7",
     "@vitejs/plugin-react": "^4.2.1",
     "@vitest/ui": "^2.1.8",
-    "happy-dom": "^15.7.4",
+    "happy-dom": "^20.8.8",
     "next": "^14.2.26",
     "tslib": "^2.6.2",
     "tsup": "^6.7.0",
